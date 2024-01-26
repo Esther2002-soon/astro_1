@@ -1,6 +1,8 @@
 import {motion} from 'framer-motion'
 import { useState } from "react"
 import download from "/download.png"
+import campus from"/campus.jpeg"
+
 //import { useMediaQuery } from '../util/useMediaQuery'
 export default function Nav(){
     //const [toggled, setToggled]=useState(false)
