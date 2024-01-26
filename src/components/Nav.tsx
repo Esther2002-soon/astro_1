@@ -1,7 +1,6 @@
 import {motion} from 'framer-motion'
 import { useState } from "react"
-import download from "/download.png"
-import campus from"/campus.jpeg"
+import download from "/public/download.png"
 
 //import { useMediaQuery } from '../util/useMediaQuery'
 export default function Nav(){
